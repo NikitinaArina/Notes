@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="new_notes">new notes</string>
+    <string name="notes">Notes</string>
+    <string name="tags">Tags</string>
+    <string name="notes_title">Note title</string>
+    <string name="notes_desc">Enter your thoughts here</string>
+    <string name="done">done</string>
+    <string name="back">back</string>
+    <string name="delete">delete</string>
+    <string name="tags_are_empty_please_add">tagshint</string>
+    <string name="select_tag_s">Select tag(s)</string>
+</resources>

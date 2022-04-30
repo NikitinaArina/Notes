@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable-v24/background.xml" value="0.1785" />
+        <entry key="app/src/main/res/drawable-v24/ic_add.xml" value="0.2375" />
+        <entry key="app/src/main/res/drawable-v24/ic_delete.xml" value="0.1785" />
+        <entry key="app/src/main/res/drawable-v24/ic_search.xml" value="0.1105" />
+        <entry key="app/src/main/res/drawable-v24/note_color_1.xml" value="0.1105" />
+        <entry key="app/src/main/res/layout/activity_create_note.xml" value="0.3527267456054688" />
+        <entry key="app/src/main/res/layout/activity_create_tag.xml" value="0.24583333333333332" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_tag.xml" value="0.11246200607902736" />
+        <entry key="app/src/main/res/layout/item_notes.xml" value="0.44536132812500007" />
+        <entry key="app/src/main/res/layout/item_tags.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
